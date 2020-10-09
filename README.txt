@@ -9,5 +9,7 @@ User Id  : Admin
 Password : 1234
 You can modify the use name and password in the line 96 of the provided java file as per your convenience.
 
+NOTE : The code is being provided in a ".java" file. If you want to view it in notepad then change the extension from ".java" to ".txt".
+
 Any doubt or problem regarding the code?
 Feel free to ping me up, So I can resolve it soon.
